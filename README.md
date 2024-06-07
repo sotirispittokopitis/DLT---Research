@@ -12,8 +12,6 @@ Pre-Screening Tasks
 
 ## Key Insights
 
-### Integration of Blockchain and Fog Computing in Smart Cities
-
 - **Enhanced Security and Efficiency**: Combining blockchain with fog computing improves data security and reduces processing delays, making smart city applications more efficient.
 
 - **Energy-Efficient Architecture**: The Blockchain and Fog-based Architecture Network (BFAN) is more energy-efficient, scalable, and secure compared to traditional systems.
@@ -27,8 +25,6 @@ Pre-Screening Tasks
 - **Blockchain Limitations**: Challenges include scalability, security, privacy issues, and the impact of emerging technologies like quantum computing. Solutions are being developed to address these issues.
 
 - **Future Prospects**: Continued research and innovations like Zero-Knowledge Proofs (ZKPs) can further enhance the security and efficiency of smart cities.
-
-These insights highlight the potential of combining blockchain and fog computing to improve the efficiency and security of smart city applications while recognizing the need for ongoing improvements.
 
 # 1.1 Introduction
 

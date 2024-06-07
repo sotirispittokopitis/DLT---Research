@@ -10,6 +10,26 @@ Pre-Screening Tasks
 6. [Conclusion](#16-conclusion)
 7. [References](#17-references)
 
+## Key Insights
+
+### Integration of Blockchain and Fog Computing in Smart Cities
+
+- **Enhanced Security and Efficiency**: Combining blockchain with fog computing improves data security and reduces processing delays, making smart city applications more efficient.
+
+- **Energy-Efficient Architecture**: The Blockchain and Fog-based Architecture Network (BFAN) is more energy-efficient, scalable, and secure compared to traditional systems.
+
+- **Decentralized IoT Management**: Integrating blockchain with fog and cloud computing creates a secure network for managing IoT data efficiently.
+
+- **Challenges of Fog Computing**: Issues include limited resources, potential delays, high energy use, load balancing, data handling, and security risks. New strategies and security measures are needed.
+
+- **Blockchain Benefits**: Blockchain adds decentralization, data integrity, secure peer-to-peer transactions, and advanced security to fog computing, enhancing IoT system reliability.
+
+- **Blockchain Limitations**: Challenges include scalability, security, privacy issues, and the impact of emerging technologies like quantum computing. Solutions are being developed to address these issues.
+
+- **Future Prospects**: Continued research and innovations like Zero-Knowledge Proofs (ZKPs) can further enhance the security and efficiency of smart cities.
+
+These insights highlight the potential of combining blockchain and fog computing to improve the efficiency and security of smart city applications while recognizing the need for ongoing improvements.
+
 # 1.1 Introduction
 
 Smart cities integrate various technologies to improve sustainability, streamline services, and enhance the overall quality of life. Two of the most prominent technologies in recent years, blockchain and fog computing, can play pivotal roles in achieving these goals by ensuring data privacy, security, and efficient processing. These technologies can work together to address the limitations of traditional cloud computing, offering decentralized and effective solutions for managing the complex needs of urban environments. This article explores the integration of blockchain and fog computing, highlighting their benefits, limitations, and potential for future development in the context of smart cities.

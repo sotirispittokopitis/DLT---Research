@@ -2,10 +2,15 @@
 Pre-Screening Tasks
 
 # Table of Contents
-1. [1.1 Introduction](#Introduction)
-2. [1.2 Blockchain and Fog Based Architecture](#Blockchain-and-Fog-Based-Architecture)
+1. [1.1 Introduction](#11-introduction)
+2. [1.2 Blockchain and Fog Based Architecture](#12-blockchain-and-fog-based-architecture)
 3. [1.3 Limitations of Fog Computing](#13-limitations-of-fog-computing)
-4. [1.4 Integration of Blockchain in Fog Computing](#Integration-of-Blockchain-in-Fog-Computing)
+4. [1.4 Integration of Blockchain in Fog Computing](#14-integration-of-blockchain-in-fog-computing)
+5. [1.5 Limitations of Blockchain](#15-limitations-of-blockchain)
+6. [1.6 Conclusion](#16-conclusion)
+7. [1.7 References](#17-references)
+
+8. 
 # 1.1 Introduction
 
 Smart cities integrate various technologies to improve sustainability, streamline services, and enhance the overall quality of life. Two of the most prominent technologies in recent years, blockchain and fog computing, can play pivotal roles in achieving these goals by ensuring data privacy, security, and efficient processing. These technologies can work together to address the limitations of traditional cloud computing, offering decentralized and effective solutions for managing the complex needs of urban environments. This article explores the integration of blockchain and fog computing, highlighting their benefits, limitations, and potential for future development in the context of smart cities.
@@ -27,7 +32,7 @@ In their comprehensive review, Ahmed M. Alwakeel et al. identify several limitat
 5. **Handling Data**: Managing large volumes of data, ensuring data integrity, and delivering real-time analytics are significant challenges. Robust data management practices are necessary to address these issues.
 6. **Security Risks**: The distributed, mobile, and varied nature of Fog computing introduces unique security challenges. New security mechanisms are needed to counter potential threats such as impersonation and malicious data alteration.
 
-# 1.4 Integration of Blockchain in Fog Computing <a id="Integration-of-Blockchain-in-Fog-Computing"></a>
+# 1.4 Integration of Blockchain in Fog Computing
 
 In addressing the challenges associated with Fog Computing when integrated with Internet of Things (IoT) devices, the studies by Said El Kafhali et al., and Yehia Ibrahim Alzoubi along with Ahmad Al-Ahmad, highlight significant concerns over privacy and security [<a href="#ref-3">3</a>]. These vulnerabilities within Fog Computing systems prompt the exploration of Blockchain technology as a complementary mechanism to fortify these systems. Key insights from the research indicate:
 

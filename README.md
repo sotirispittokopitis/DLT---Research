@@ -7,7 +7,7 @@ Pre-Screening Tasks
 3. [1.3 Limitations of Fog Computing](#13-limitations-of-fog-computing)
 4. [1.4 Integration of Blockchain in Fog Computing](#14-integration-of-blockchain-in-fog-computing)
 5. [1.5 Limitations of Blockchain](#15-limitations-of-blockchain)
-6. [1.6 Conclusion](#16-conclusion)
+6. [Conclusion](#16-conclusion)
 7. [1.7 References](#17-references)
 
 8. 

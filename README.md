@@ -22,7 +22,7 @@ Pre-Screening Tasks
 
 - **Blockchain Limitations**: Challenges include scalability, security, privacy issues, and the impact of emerging technologies like quantum computing. Solutions are being developed to address these issues.
 
-- **Future Prospects**: Continued research and innovations like Zero-Knowledge Proofs (ZKPs) can further enhance the security and efficiency of smart cities.
+- **Future Prospects**: Continued research and innovations (E.g. Zero-Knowledge Proofs) can further enhance the security and efficiency of smart cities.
 
 # 1.1 Introduction
 

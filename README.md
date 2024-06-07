@@ -27,7 +27,7 @@ In their comprehensive review, Ahmed M. Alwakeel et al. identify several limitat
 5. **Handling Data**: Managing large volumes of data, ensuring data integrity, and delivering real-time analytics are significant challenges. Robust data management practices are necessary to address these issues.
 6. **Security Risks**: The distributed, mobile, and varied nature of Fog computing introduces unique security challenges. New security mechanisms are needed to counter potential threats such as impersonation and malicious data alteration.
 
-# 1.4 Integration of Blockchain in Fog Computing
+# 1.4 Integration of Blockchain in Fog Computing <a id="Integration-of-Blockchain-in-Fog-Computing"></a>
 
 In addressing the challenges associated with Fog Computing when integrated with Internet of Things (IoT) devices, the studies by Said El Kafhali et al., and Yehia Ibrahim Alzoubi along with Ahmad Al-Ahmad, highlight significant concerns over privacy and security [<a href="#ref-3">3</a>]. These vulnerabilities within Fog Computing systems prompt the exploration of Blockchain technology as a complementary mechanism to fortify these systems. Key insights from the research indicate:
 

@@ -60,8 +60,6 @@ The integration of blockchain and fog-based architectures offers a promising pat
 
 # 1.7 References
 
-## 1.6 References 
-
 <a id="ref-1"></a>[1] Singh, P., Nayyar, A., Kaur, A. and Ghosh, U. (2020). Blockchain and Fog Based Architecture for Internet of Everything in Smart Cities. Future Internet, 12(4), p.61. doi:https://www.mdpi.com/1999-5903/12/4/61
 
 <a id="ref-2"></a>[2] El Kafhali, S., Chahir, C., Hanini, M. and Salah, K. (2019). Architecture to manage Internet of Things data using blockchain and fog computing. Proceedings of the 4th International Conference on Big Data and Internet of Things, pp. 1-8. doi: https://www.researchgate.net/publication/338451359_Architecture_to_manage_Internet_of_Things_Data_using_Blockchain_and_Fog_Computing

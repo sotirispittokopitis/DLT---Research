@@ -16,8 +16,6 @@ Pre-Screening Tasks
 
 - **Energy-Efficient Architecture**: The Blockchain and Fog-based Architecture Network (BFAN) is more energy-efficient, scalable, and secure compared to traditional systems.
 
-- **Decentralized IoT Management**: Integrating blockchain with fog and cloud computing creates a secure network for managing IoT data efficiently.
-
 - **Challenges of Fog Computing**: Issues include limited resources, potential delays, high energy use, load balancing, data handling, and security risks. New strategies and security measures are needed.
 
 - **Blockchain Benefits**: Blockchain adds decentralization, data integrity, secure peer-to-peer transactions, and advanced security to fog computing, enhancing IoT system reliability.

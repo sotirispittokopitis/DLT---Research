@@ -4,7 +4,7 @@ Pre-Screening Tasks
 # Table of Contents
 1. [1.1 Introduction](#Introduction)
 2. [1.2 Blockchain and Fog Based Architecture](#Blockchain-and-Fog-Based-Architecture)
-3. [1.3 Limitations of Fog Computing](#Limitations-of-Fog-Computing)
+3. [1.3 Limitations of Fog Computing](#13-limitations-of-fog-computing)
 4. [1.4 Integration of Blockchain in Fog Computing](#Integration-of-Blockchain-in-Fog-Computing)
 # 1.1 Introduction
 
